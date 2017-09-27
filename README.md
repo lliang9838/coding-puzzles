@@ -1,6 +1,7 @@
 # c++ puzzles
 
-1. determine if it's a palindrome
-2. URLify
-3. count how many elements of that value are in that array using recursion
+  determine if it's a palindrome
+  URLify
+  count how many elements of that value are in that array using recursion
+  determine if the string1 is "one character away" from string2
 
